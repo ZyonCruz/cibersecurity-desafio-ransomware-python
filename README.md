@@ -17,11 +17,13 @@ Este repositório contém a resolução do desafio da DIO sobre a implementaçã
 
 
 **1. Execução da Criptografia:**
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/eead8acb-66f5-40b4-8b90-df66e6995c0f" />
+<img width="986" height="900" alt="Captura de Tela (840)" src="https://github.com/user-attachments/assets/ad6a17eb-1f39-47be-b9da-b54f0863dd78" />
+
 encrypter.py
 
 **2. Arquivo Criptografado (Resultado):**
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/f971996a-b9a5-4a93-b18d-931948eca239" />
+<img width="981" height="884" alt="Captura de Tela (841)" src="https://github.com/user-attachments/assets/7d107056-2fdb-4407-97eb-18e0899c55a2" />
+
 decrypter.py
 
 ## ⚠️ Aviso Legal
